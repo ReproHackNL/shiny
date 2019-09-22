@@ -4,7 +4,10 @@ body {
     font-size: 18px;
     line-height: 1.6;} 
 
-h1, h2, h3, h4, h5, h6 { font-weight: bold; } 
+h1, h2, h3, h4, h5, h6 {font-weight: bold;
+  color: #09754a;
+} 
+
 
 h1 { font-size: 2em; } 
 h2 { font-size: 1.75em; } 
@@ -24,7 +27,7 @@ h6 { font-size: 1.25em; }
 }
 
 a:link {
-  color: #071059;
+  color: #ee7621;
 }
 
 /* visited link */
@@ -46,3 +49,7 @@ a:active {
     color: white;
     font-weight: bold;
 }
+
+b, strong {
+     color: #ee7621;
+     }

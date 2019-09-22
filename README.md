@@ -1,19 +1,19 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-![](https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png)
+![](reprohack-banner.png)
 
-# Welcome to the **Awesome conference / organiser \#ReproHack**\!
+# Welcome to the **Reprohack NL**\!
 
 <br>
 
-#### :date: **27th June 2019**
+#### :date: **30th November, 2019**
 
-#### :alarm\_clock: **9.30am-15:30pm**
+#### :alarm\_clock: **10.00am-17:00pm**
 
-##### :round\_pushpin: **Ada Lovelace Seminar Room, Dept. of Computer Science**
+##### :round\_pushpin: **Leiden University Library**
 
-##### :earth\_africa: [**The University of Sheffield, 211 Portobello, Sheffield S1 4DP**](https://www.openstreetmap.org/?mlat=53.38119&mlon=-1.48036#map=19/53.38119/-1.48036)
+##### :earth\_africa: [**Witte Singel 27, 2311 BG Leiden**](https://www.openstreetmap.org/?mlat=52.157305&mlon=4.481427#map=19/52.157305/4.481427)
 
 [![Gitter](https://badges.gitter.im/reprohack/community.svg)](https://gitter.im/reprohack/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
@@ -50,6 +50,8 @@ projects**](https://youraccount.shinyapps.io/reprohack-awesome-conf)
 
 <br>
 
+### [**REGISTER as a participant**](https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053)
+
 Join us at the hack to **dig into exciting science**, learn more about
 **reproducibility**, working with **other people’s code and data** and
 more\!
@@ -60,9 +62,9 @@ more\!
 
 This is the master repo of the hack. We’ll collect information on the
 teams and projects through
-[issues](https://github.com/your_account/reprohack-location-ISOdate/issues/)
-in this repo. We’ll track of discussions and collaborative notes on the
-event [**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit)
+[issues](https://github.com/ReproHackNL/ReproHack/issues/) in this repo.
+We’ll track of discussions and collaborative notes on the event
+[**hackpad**](https://hackmd.io/link-to-copy-of-hackpad/edit)
 
 As all Carpentries events, we strive to make this event open and
 inclusive to all. As such the event is governed by the [Carpentries Code
@@ -94,7 +96,7 @@ then form into teams.
 
   - In your teams **decide which paper/hack topic** you wish to work on.
   - To register your team and paper / topic [**open a new
-    issue**](https://github.com/your_account/reprohack-location-ISOdate/issues/new/choose)
+    issue**](https://github.com/ReproHackNL/ReproHack/issues/new/choose)
     in this repository using the issue templates provided.
   - **Complete details** and create.
   - Please also add each individual participants details in the relevant

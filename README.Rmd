@@ -1,20 +1,20 @@
 ---
 output: github_document
 params: 
-  title: "Awesome conference / organiser"
-  room_location: "Ada Lovelace Seminar Room, Dept. of Computer Science"
-  address: "The University of Sheffield, 211 Portobello, Sheffield S1 4DP"
-  date: "27th June 2019"
-  time: "9.30am-15:30pm"
-  bannerurl: "https://github.com/reprohack/reprohack-hq/raw/master/assets/reprohack-banner.png"
-  latitude: 53.38119
-  longitude: -1.48036
-  registration_url: null
+  title: "Reprohack NL"
+  room_location: "Leiden University Library"
+  address: "Witte Singel 27, 2311 BG Leiden"
+  date: "30th November, 2019"
+  time: "10.00am-17:00pm"
+  bannerurl: "reprohack-banner.png"
+  latitude: 52.157305
+  longitude: 4.481427
+  registration_url: https://www.eventbrite.co.uk/e/reprohack-nl-tickets-73258469053
   hackpad_url: https://hackmd.io/link-to-copy-of-hackpad/edit
   submission_url: https://link-to-submissionform
   feedback_url: https://link-to-feedbackform
   paper_shinyapp_url: https://youraccount.shinyapps.io/reprohack-awesome-conf
-  reprohack_repo_url: https://github.com/your_account/reprohack-location-ISOdate
+  reprohack_repo_url: https://github.com/ReproHackNL/ReproHack
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -37,13 +37,12 @@ openstreetmaps_location_url <- paste0("https://www.openstreetmap.org/?mlat=",
 
 ![](`r params$bannerurl`)
 
-# Welcome to the **`r params$title` #ReproHack**!
+# Welcome to the **`r params$title`**!
 
 <br>
 
 #### :date: **`r params$date`**
 #### :alarm_clock: **`r params$time`**
-
 ##### :round_pushpin: **`r params$room_location`**
 ##### :earth_africa: [**`r params$address`**](`r openstreetmaps_location_url`)
   
